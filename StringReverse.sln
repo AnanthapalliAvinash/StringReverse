@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReverse", "StringReverse\StringReverse.csproj", "{5078D3EF-6882-49F0-902D-1C11371374CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibnacciSeries", "FibnacciSeries\FibnacciSeries.csproj", "{F74763A3-9759-48F0-B952-E4CB16E4818C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5078D3EF-6882-49F0-902D-1C11371374CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5078D3EF-6882-49F0-902D-1C11371374CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5078D3EF-6882-49F0-902D-1C11371374CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5078D3EF-6882-49F0-902D-1C11371374CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74763A3-9759-48F0-B952-E4CB16E4818C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74763A3-9759-48F0-B952-E4CB16E4818C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74763A3-9759-48F0-B952-E4CB16E4818C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74763A3-9759-48F0-B952-E4CB16E4818C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F9F877-7F32-4CD7-8FFF-CE8AF5512A3F}
+	EndGlobalSection
+EndGlobal
